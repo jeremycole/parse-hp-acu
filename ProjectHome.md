@@ -1,0 +1,1 @@
+Currently this project only has Parse::HP::ACU but the intent is to provide parsers for the various vendors' RAID utilities to provide a consistent view of the RAID information and potentially a consistent API for reconfiguration.
